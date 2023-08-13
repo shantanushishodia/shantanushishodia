@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantanu Shishodia</h1>
-<h3 align="center">A passionate software developer from India, pursuing MS in CS from ASU.</h3>
+<h3 align="center">A passionate software developer from India, incoming Spring 2024 graduate pursuing MS in CS from ASU.</h3>
 
 - 📫 How to reach me **shantanushishodia10@gmail.com**
 
